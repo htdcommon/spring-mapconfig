@@ -1,0 +1,11 @@
+
+
+hadoop:
+    num: 4
+    type: yarn
+    cluster:
+        hadoop-bj: 10.10.11.116
+        hadoop-media: 10.10.11.56
+        hadoop-sz: 10.10.10.1
+        hadoop-hk: 10.10.10.110
+    os: centos
